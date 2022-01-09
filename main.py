@@ -12,3 +12,6 @@ def gg():
 
 def kk():
     pass
+
+def all():
+    pass
