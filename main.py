@@ -4,3 +4,6 @@ def banshee_print(*args):
 
 def r():
     pass
+
+def f():
+    pass
