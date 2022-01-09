@@ -3,3 +3,6 @@ def banshee_print(*args):
 
 def ooo():
     pass
+
+def goga():
+    pass
