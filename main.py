@@ -3,3 +3,6 @@ def banshee_print(*args):
 
 def gg():
     pass
+
+def kk():
+    pass
