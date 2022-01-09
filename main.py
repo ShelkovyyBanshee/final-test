@@ -14,4 +14,6 @@ def kk():
     pass
 
 def all():
-    print("")
+    pass
+
+print("pf ij")
